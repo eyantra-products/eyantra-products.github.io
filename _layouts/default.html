@@ -3,6 +3,23 @@
 
 {% include head.html %}
 
+<style type="text/css"> 
+        .br { 
+            display: block; 
+            margin-bottom: 0em; 
+        } 
+          
+        .brmedium { 
+            display: block; 
+            margin-bottom: 0.3em; 
+        } 
+          
+        .brlarge { 
+            display: block; 
+            margin-bottom: 2em; 
+        } 
+    </style> 
+
 <body>
     <div class="imageWrapper">
             <div class="headerBackground">
@@ -22,7 +39,7 @@
                         </div>  
                         
                         <!-- <img class="iphoneScreen hidden" src="" alt=""> -->
-                        <img src="assets/mega.png" alt="e-yantra" width="400" height="800"> 
+                        <img src="assets/mega.png" alt="e-yantra" width="440" height="804"> 
 
                         <!-- {% include screencontent.html %} -->
 
@@ -41,23 +58,25 @@
                         </div>
                         <div class="appNamePriceContainer">
                             <h1 class="appName">
-                                eYFi-MEGA
+                                eYFi-Mega
                             </h1>
                             <h2 class="appPrice">
-                                Made in India 🇮🇳 
+                                Made in India 🇮🇳
                             </h2>
                         </div>
                         <div class="appDescriptionContainer">
                             <p class ="appDescription">
-                                Awesome AVR Dev-board with onboard ESP32!
+                                Developed by e-Yantra at IIT Bombay
                             </p>
                         </div>
-                        <div class="downloadButtonsContainer">
+                        
+<!--                         <div class="downloadButtonsContainer">
                             {% if site.playstore_link %}
                                 <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore" src="assets/amazonBuy.png"></a>
                             {% endif %}
                             <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore" src="assets/amazonBuy.png"></a>
-                        </div>
+                        </div> -->
+                   
                     </div>
                     {% include features.html %}
                     {% include footer.html %}

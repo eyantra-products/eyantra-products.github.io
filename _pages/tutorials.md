@@ -4,62 +4,171 @@ title: What's New
 include_in_header: true
 ---
 
-# eYFi-MEGA Tutorials
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+# eYFi-Mega Quick Bytes
+Welcome to Quick Bytes!
 
-<br>
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+## ATmega 2560 
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+<table>
+  <col width="10">
+  <col width="500">
+  <col width="80">
+  <tr>
+    <th>#</th>
+    <th>Project</th>
+    <th>Download</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Digital Output</td>
+    <td>Link</td>
+  </tr>
 
-<br>
+  <tr>
+    <td>2</td>
+    <td>Digital Input</td>
+    <td>Link</td>
+  </tr>
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+  <tr>
+    <td>3</td>
+    <td>Interrupt - External</td>
+    <td></td>
+  </tr>
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+  <tr>
+    <td>4</td>
+    <td>Interrupt - Internal using Timer</td>
+    <td></td>
+  </tr>
+    
+  <tr>
+    <td>5</td>
+    <td>Analog Output - PWM</td>
+    <td></td>
+  </tr>
 
-<br>
+  <tr>
+    <td>6</td>
+    <td>Analog Input - ADC</td>
+    <td></td>
+  </tr>
 
-________
-<br>
+  <tr>
+    <td>7</td>
+    <td>Communication - UART</td>
+    <td></td>
+  </tr>
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+  <tr>
+    <td>8</td>
+    <td>Communication - I2C</td>
+    <td></td>
+  </tr>
+    
+  <tr>
+    <td>9</td>
+    <td>Communication - SPI</td>
+    <td></td>
+  </tr>
+</table>
 
-<br>
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+## ESP32
 
-<br>
+<table>
+  <col width="10">
+  <col width="500">
+  <col width="80">
+  <tr>
+    <th>#</th>
+    <th>Project</th>
+    <th>Download</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Digital Output</td>
+    <td>Link</td>
+  </tr>
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+</table>
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
 
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
 
-<br>
+## ATmega 2560 and ESP32
+
+<table>
+  <col width="10">
+  <col width="500">
+  <col width="80">
+  <tr>
+    <th>#</th>
+    <th>Project</th>
+    <th>Download</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>ATmega 2560 Wireless Serial Terminal</td>
+    <td>Link</td>
+  </tr>
+
+</table>
+
+
+## FreeRTOS on ESP32
+
+<table>
+  <col width="10">
+  <col width="500">
+  <col width="80">
+  <tr>
+    <th>#</th>
+    <th>Project</th>
+    <th>Download</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Tasks</td>
+    <td>Link</td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td>Queues</td>
+    <td>Link</td>
+  </tr>
+
+  <tr>
+    <td>3</td>
+    <td>Semaphore - Mutex</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>4</td>
+    <td>Binary Semaphore</td>
+    <td></td>
+  </tr>
+    
+  <tr>
+    <td>5</td>
+    <td>Interrupt Processing Semaphores</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>6</td>
+    <td>Event Groups</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>7</td>
+    <td>Queue - Set</td>
+    <td></td>
+  </tr>
+
+</table>

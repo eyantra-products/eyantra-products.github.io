@@ -12,7 +12,7 @@ presskit_download_link                    : http://e-yantra.org                 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : eYFi-MEGA
+app_description                           : eYFi-Mega
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,40 +34,40 @@ youtube_username                          : e-yantra
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : ATMega 2560
-    description                           : kya baat
-    fontawesome_icon_name                 : magic
+  - title                                 : ATmega2560 and ESP32 based development board
+    description                           : 
+    fontawesome_icon_name                 : microchip
     
-  - title                                 : ESP32
-    description                           : kya baat
-    fontawesome_icon_name                 : mobile
+  - title                                 : 12.5 W of Output Power
+    description                           : 
+    fontawesome_icon_name                 : plug
 
-  - title                                 : Local Over-the-Air Firmware Update
-    description                           : kya baat
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Wi-Fi compatible
+    description                           : 
+    fontawesome_icon_name                 : wifi
 
-  - title                                 : Wireless Serial Terminal
-    description                           : kya baat
-    fontawesome_icon_name                 : sync
-
-  - title                                 : VS Code based IDE
-    description                           : kya baat
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Easy to learn and use
-    description                           : kya baat
+  - title                                 : Bluetooth Low Energy
+    description                           : 
     fontawesome_icon_name                 : star
 
-  - title                                 : Rugged
-    description                           : kya baat
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Over-The-Air Update
+    description                           : 
+    fontawesome_icon_name                 : cloud
+  
+  - title                                 : Compatible with FreeRTOS
+    description                           : 
+    fontawesome_icon_name                 : star
 
-  - title                                 : Tons of Tutorial
-    description                           : kya baat
-    fontawesome_icon_name                 : link
+  - title                                 : Arduino Programming Language Compatible
+    description                           : 
+    fontawesome_icon_name                 : code
+
+  - title                                 : On-Board File Storage
+    description                           : 
+    fontawesome_icon_name                 : save
 
   - title                                 : Awesome Support
-    description                           : kya baat
+    description                           : 
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title

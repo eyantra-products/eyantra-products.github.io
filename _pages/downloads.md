@@ -16,6 +16,7 @@ include_in_header: true
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
+  width: 50%;
 }
 
 /* Darker background on mouse-over */
@@ -27,7 +28,7 @@ include_in_header: true
 
 <!-- <button class="btn"><i class="fa fa-download"></i> <a href="https://www.google.com" target="_self" style="color: #ffffff">Download</a></button> -->
 
-# eYFi-MEGA Downloads
+# eYFi-Mega Downloads
 
  <ol type="1">
   <li><a href="#ey-ide" target="_self">eY-IDE (VS Code Based)</a></li>

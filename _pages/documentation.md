@@ -4,63 +4,43 @@ title: Documentation
 include_in_header: true
 ---
 
-# eYFi-MEGA Documentation
+<style>
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  width: 50%;
+}
 
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+</style>
 
+# eYFi-Mega Documentation
+
+Download PDF or view HTML of eYFi-Mega documentations.
 <br>
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+## eYFi-Mega Hardware Manual <a name="hw-man"></a>
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+#### Latest (v0.1)
+<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-atmega2560-bootloader-releases/archive/master.zip" target="_self" style="color: #ffffff">Download PDF</a></button>
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+<button class="btn"><i class="fa fa-book"></i> <a href="https://docs.google.com/document/d/e/2PACX-1vQz5BFBCDNT5ypJSQuTb2qZa8-k03KmDxBet3bKdA_Lk5Mqp8x49vXogHvXhSXqrilGKVX1WQzRV9_8/pub" target="_self" style="color: #ffffff">View HTML</a></button>
 
-<br>
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+## eYFi-Mega Software Manual <a name="sw-man"></a>
 
-<br>
+#### Latest (v0.1)
+<button class="btn"><i class="fa fa-download"></i> <a href="https://github.com/eyantra/eyfi-mega-atmega2560-bootloader-releases/archive/master.zip" target="_self" style="color: #ffffff">Download PDF</a></button>
 
-________
-<br>
+<button class="btn"><i class="fa fa-book"></i> <a href="https://docs.google.com/document/d/e/2PACX-1vQz5BFBCDNT5ypJSQuTb2qZa8-k03KmDxBet3bKdA_Lk5Mqp8x49vXogHvXhSXqrilGKVX1WQzRV9_8/pub" target="_self" style="color: #ffffff">View HTML</a></button>
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
-
-<br>
-
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
 
 <br>
